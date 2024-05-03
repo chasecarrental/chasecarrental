@@ -28,7 +28,7 @@ Para reservas y más información:
 ## Síguenos
 
 - [Facebook](https://www.facebook.com/alquicoche/)
-- [Linkedin](https://www.linkedin.com/company/alquicoche))
+- [Linkedin](https://www.linkedin.com/company/alquicoche)
 - [Twitter](https://twitter.com/alquicoche)
 - [Instagram](https://www.instagram.com/alquicoche)
 
