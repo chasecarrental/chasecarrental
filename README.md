@@ -6,13 +6,18 @@ Bienvenido al repositorio oficial de CHASE EUROPA, S.L., tu socio de confianza p
 
 CHASE EUROPA, S.L. es una empresa líder en el mercado de alquiler de coches, comprometida con la innovación y la satisfacción del cliente. Con años de experiencia en la industria, ofrecemos servicios de alquiler de coches tanto a clientes locales como internacionales, asegurando siempre el mejor servicio y atención.
 
-Visita nuestra página web: [www.alquicoche.es](http://www.alquicoche.es)
+Visita nuestras páginas web: 
+
+[www.alquicoche.es](http://www.alquicoche.es) - Nuestra marca retail en español
+[www.alquicoche.com](http://www.alquicoche.com) - Nuestra marca retail traducida al inglés
+[www.chasecarrental.com](http://www.chasecarrental.com) - Nuestra marca retail en inglés
+
 
 ## Nuestros Servicios
 
 - **Alquiler de Coches**: Amplia selección de coches para alquilar por días, semanas o meses.
 - **Opciones de Alquiler Flexible**: Soluciones de alquiler adaptadas a tus necesidades específicas.
-- **Asistencia en Carretera 24/7**: Para que siempre te sientas seguro mientras conduces.
+- **Red de afiliación para empresas de alquiler de vehículos**: La unión hace la fuerza. Afiliarse a nosotros supone beneficiarse de múltiples ventajas: obtención de reservas, sistemas de gestión, localización de vehículos, sistema de precios automatizados, etc
 
 ## Contacto
 
