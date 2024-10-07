@@ -49,7 +49,5 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md
 
 - Gracias a todos nuestros clientes y colaboradores que hacen posible nuestro crecimiento y mejora continua.
 
-## Notas
-OCR API: https://rapidapi.com/dominonet-lTpEE6zONeS/api/document-ocr1/playground/apiendpoint_40cc52f3-804c-49fe-923b-72426ce350e2
 
 
