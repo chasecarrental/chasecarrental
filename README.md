@@ -1,3 +1,5 @@
+<img src="https://d1y0jzxgzgrs0a.cloudfront.net/a0a3ef28-2c29-4529-b171-e5dce70d5f77/buildVelzon/images/logo-chase.png" alt="Logo" width="200"/>
+
 # CHASE EUROPA, S.L.
 
 Bienvenido al repositorio oficial de CHASE EUROPA, S.L., tu socio de confianza para soluciones de alquiler de coches. Nos esforzamos por ofrecer una experiencia excepcional a todos nuestros clientes con una amplia gama de vehículos de alta calidad y servicios personalizados.
